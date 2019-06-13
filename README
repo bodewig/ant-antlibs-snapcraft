@@ -1,0 +1,7 @@
+Antlib for running the Snapcraft CLI
+
+This Antlib provides a single Ant task that wraps around the snapcraft
+CLI and can be used to create and publish snaps from inside your Ant
+build.
+
+[1] https://docs.snapcraft.io/snapcraft-overview
